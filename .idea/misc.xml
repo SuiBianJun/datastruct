@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/graph" />
+      <file path="$PROJECT_DIR$/heap" />
+      <file path="$PROJECT_DIR$/list" />
+      <file path="$PROJECT_DIR$/sort" />
+      <file path="$PROJECT_DIR$/tree" />
+    </sourceRoots>
+  </component>
+</project>
