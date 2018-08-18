@@ -13,4 +13,6 @@ add_executable(datastruct main.cpp
         sort/InsertSort.cpp sort/MergeSort2.cpp sort/ShellSort.cpp
 
 
-        graph/graph.h)
+        graph/graph.h
+
+        sort/MaoPao.cpp sort/sort.h main.h sort/SelectSort.cpp sort/InsertSort2.cpp sort/ShellSort2.cpp sort/MergeSort3.cpp sort/HeapSort.cpp sort/QuikSort.cpp sort/BaseSort.cpp)

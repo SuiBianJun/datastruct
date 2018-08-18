@@ -6,6 +6,7 @@
       <file path="$PROJECT_DIR$/graph" />
       <file path="$PROJECT_DIR$/heap" />
       <file path="$PROJECT_DIR$/list" />
+      <file path="$PROJECT_DIR$/search" />
       <file path="$PROJECT_DIR$/sort" />
       <file path="$PROJECT_DIR$/tree" />
     </sourceRoots>
